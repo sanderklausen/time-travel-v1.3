@@ -12,7 +12,7 @@ A recreation of the Time Travel software interface from a dream, featuring a bea
 - Location input (Latitude, Longitude)
 - Sqwimble slider (-100 to 100 scale)
 - Deterministic and Assume Form checkboxes
-- Interactive Start button with easter egg
+- Interactive Start button
 
 🎨 **Design**
 - Professional tkinter-based GUI
@@ -53,7 +53,7 @@ python timetravel.py
 
 Adjust the Sqwimble slider from -100 to 100 to control temporal quantum fluctuations.
 
-### Easter Egg
+### Start
 
 Try clicking the **Start** button to experience a burst of temporal energy!
 
